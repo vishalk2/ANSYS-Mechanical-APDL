@@ -8,7 +8,7 @@ Check "Calculations.txt" for theoretical solutions and "CODE-Model_1.txt" for AN
 
 # Solution:
 
-  Case-1: Mesh Size = 0.5; 9 Nodes; 100 unit force per node.
+  # Case-1: Mesh Size = 0.5; 9 Nodes; 100 unit force per node.
   
   Pre-Processing:
   
@@ -30,7 +30,7 @@ Check "Calculations.txt" for theoretical solutions and "CODE-Model_1.txt" for AN
   ![DEFORMATION-MESH=0 5](https://user-images.githubusercontent.com/68963724/103413396-57cf0380-4b9f-11eb-99f5-43fc11009185.png)
   
   
-  Case-2: Mesh = 0.25; 17 Nodes; 53 unit force per node.
+  # Case-2: Mesh = 0.25; 17 Nodes; 53 unit force per node.
   
   Pre-Processing:
   
@@ -52,7 +52,7 @@ Check "Calculations.txt" for theoretical solutions and "CODE-Model_1.txt" for AN
   ![DEFORMATION-MESH=0 25](https://user-images.githubusercontent.com/68963724/103413697-a5983b80-4ba0-11eb-84bd-fcd2a8265759.png)
   
   
-  Case-3: Mesh = 0.125; 33 Nodes; 27.27 unit force per node.
+  # Case-3: Mesh = 0.125; 33 Nodes; 27.27 unit force per node.
   
   Pre-Processing:
   
