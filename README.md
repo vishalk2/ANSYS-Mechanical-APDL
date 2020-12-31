@@ -1,0 +1,1 @@
+# ANSYS-Mechanical-APDL
