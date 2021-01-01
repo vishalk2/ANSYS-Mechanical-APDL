@@ -1,0 +1,13 @@
+GIVEN:
+
+P = 900 N (FORCE)
+E = 2x10^5 MPa (YOUNG'S MODULUS)
+v = 0.33 (POISSON'S RATIO)
+DIMENSIONS: 4 (LENGTH) x 2 (WIDTH) x 2 (THICKNESS) - (ALL IN "mm")
+
+
+
+THEORETICAL SOLUTION:
+
+Sigma_X = P/A = 900/(2x2) = 225 MPa (STRESS in X-Direction)
+Delta_X = PL/AE = 900*4/((2x2)*E) = 0.0045mm (Deformation in X-Direction)
