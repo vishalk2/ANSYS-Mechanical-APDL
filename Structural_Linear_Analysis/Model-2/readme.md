@@ -4,7 +4,7 @@
 
 ![PROBLEM](https://user-images.githubusercontent.com/68963724/103434671-c60cd800-4c2a-11eb-8c29-fa217b410a7e.png)
 
-Check "Calculations.txt" for theoretical solutions and "CODE-Model_1.txt" for ANSYS APDL Code utilized.
+Check "Calculations.txt" for theoretical solutions and "CODE-Model_2.txt" for ANSYS APDL Code utilized.
 
 # Solution
 
