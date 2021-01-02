@@ -4,7 +4,7 @@
 
 ![PROBLEM](https://user-images.githubusercontent.com/68963724/103434964-7af4c400-4c2e-11eb-893a-50f86969cf1d.png)
 
-Check "CODE-Model_1.txt" for ANSYS APDL Code utilized.
+Check "CODE-Model_3.txt" for ANSYS APDL Code utilized.
 
 # Solution
 
